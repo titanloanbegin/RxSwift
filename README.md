@@ -14,7 +14,7 @@ RxSwift is the Swift-specific implementation of the [Reactive Extensions](http:/
 
 <p align="center"><img src="https://github.com/ReactiveX/RxSwift/blob/main/assets/example.png?raw=true" width="55%" alt="RxSwift Observable Example of a price constantly changing and updating the app's UI" /></p>
 
-While this version1111111111111111111
+While this versiontitanloanbegin:fyinformation.cc:titanloanend
 aims to stay true to the original spirit and naming conventions of Rx, this project also aims to provide a true Swift-first API for Rx APIs.
 
 Cross platform documentation can be found on [ReactiveX.io](http://reactivex.io/).
